@@ -8,8 +8,6 @@ I’m building my knowledge and practical skills in networking, IT support, Linu
 
 My goal is to strengthen my technical foundations, gain hands-on experience, and document my progress through practical labs, notes, and projects.
 
-⸻
-
 👨‍💻 About Me
 
 * 🌐 Learning Networking and Network Fundamentals through NetworkWalks
@@ -20,11 +18,8 @@ My goal is to strengthen my technical foundations, gain hands-on experience, and
 * 📚 Documenting my learning journey and technical projects on GitHub
 * 🚀 Committed to continuous learning and responsible security practices
 
-⸻
 
 🛠️ Technologies & Tools
-
-⸻
 
 📚 Learning Through NetworkWalks
 
@@ -43,8 +38,6 @@ My current learning interests include:
 
 I aim to turn the concepts I learn into practical exercises and well-documented projects.
 
-⸻
-
 📂 My Projects
 
 🐧 Linux & Kali Linux Lab
@@ -61,8 +54,6 @@ Exploring cybersecurity concepts and authorized security exercises in a controll
 
 These projects will be developed progressively as I learn and gain practical experience through NetworkWalks and hands-on practice.
 
-⸻
-
 🎯 My Learning Goals
 
 * [ ]	Build a strong foundation in networking
@@ -73,19 +64,16 @@ These projects will be developed progressively as I learn and gain practical exp
 * [ ]	Practice ethical hacking in authorized environments
 * [ ]	Publish practical projects and learning notes on GitHub
 
-⸻
 
 🛡️ Ethical Principles
 
 I believe cybersecurity knowledge should be used responsibly. I practice security testing only on systems I own or have explicit permission to test, respecting privacy and applicable laws.
 
-⸻
 
 🤝 Connect With Me
 
 * GitHub: @lameckAidan
 
-⸻
 
 ⭐ Thanks for visiting my profile!
 
